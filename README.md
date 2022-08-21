@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sergey Sirenko</h1>
-<h3 align="center">Frontend developer from Ukraine <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" alt="ukraine flag" width="30" height="20"/> </h3>
+
+<!-- <h3 align="center">Frontend developer from Ukraine <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" alt="ukraine flag" width="30" height="20"/> </h3> -->
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=04ADF7&center=true&vCenter=true&width=1000&lines=Frontend+Developer+from+Ukraine" alt="Typing SVG" /></a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sergeysirenko&label=Profile%20views&color=0e75b6&style=flat" alt="sergeysirenko" /> </p>
 
